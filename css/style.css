@@ -155,5 +155,12 @@ img {
 
     .why-us{
         background-color: #222222;
+        margin-bottom: 0px;
+        padding-bottom: 3rem;
+        padding-top: 3rem;
+    }
+
+    .steps{
+        margin-bottom: 0px;
     }
  }
