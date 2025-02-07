@@ -140,7 +140,9 @@ img {
     }
 
     .steps .col,
-    .lesson .col {
+    .lessons .col,
+    .why-us .col-left,
+    .why-us .col-right {
         width: 100%;
         padding: 20px 0px;  
     }
