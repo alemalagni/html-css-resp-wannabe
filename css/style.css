@@ -139,12 +139,10 @@ img {
         display: block;
     }
 
-    .col {
+    .steps .col,
+    .lesson .col {
+        width: 100%;
         padding: 20px 0px;  
-    }
-
-    h2{
-        width: fit-content;
     }
 
     .container {
